@@ -1,6 +1,6 @@
 {
   "version": "v1.0",
   "versionCode": 1,
-  "zipUrl": "https://raw.githubusercontent.com/HE7086/HideNavigationBar/install.zip",
-  "changelog": "https://raw.githubusercontent.com/HE7086/HideNavigationBar/changelog.md"
+  "zipUrl": "https://github.com/HE7086/HideNavigationBar/releases/latest/download/HideNavigationBar.zip",
+  "changelog": "https://raw.githubusercontent.com/HE7086/HideNavigationBar/main/changelog.md"
 }
