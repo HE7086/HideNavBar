@@ -1,3 +1,9 @@
+# Important Note
+
+This module is currently broken for Android 14. [issue](https://issuetracker.google.com/issues/306002254)
+
+On Android 13 it still works normally
+
 # Hide Navigation Bar
 
 This is a magisk module that hides navigation bar
